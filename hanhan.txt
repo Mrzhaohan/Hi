@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hanhan
+=======
+hanhan
+
+aaaaaaaaaaaaaaaa
+>>>>>>> parent of 2b196e5... Update hanhan.txt
